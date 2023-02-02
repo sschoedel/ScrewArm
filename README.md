@@ -1,0 +1,1 @@
+Forward kinematics for the 7-dof Barrett WAM arm using screw theory
